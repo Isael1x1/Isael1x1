@@ -1,4 +1,4 @@
-# Aron Sánchez
+# Aron Isael Sánchez
 
 Estudiante de ciberseguridad y TI. Diseño y dirijo software con IA: especifico, apruebo cada plan y verifico los resultados.
 
